@@ -1,1 +1,3 @@
-# RNA-e-Deep-Learning---CESAR-School-2026.01-A
+# Nome: Wellington dos Santos Barbosa  
+
+# Email: wsb3@cesar.school
